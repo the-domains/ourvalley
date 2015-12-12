@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T21:50:41.649Z'
-dateModified: '2015-12-12T21:50:03.976Z'
+datePublished: '2015-12-12T21:57:33.970Z'
+dateModified: '2015-12-12T21:57:28.945Z'
 title: 12 à 20 personen
 author: []
 sourcePath: _posts/2015-12-12-combinatie-12-a-20-personen-alle-woningen.md
@@ -22,8 +23,6 @@ _type: Blurb
 
 ---
 ****
-
-# 12 à 20 personen
 
 Deze woning omvat het ganse huis en is dus een samenstelling van de twee voorgaande combinaties. 
 
