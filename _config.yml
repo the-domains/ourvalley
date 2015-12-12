@@ -1,7 +1,7 @@
 name: ourvalley
 favicon: null
-layout_spectrum: 0.6177765587344766
-typography_spectrum: 0.49958925461396575
+layout_spectrum: 0.86776
+typography_spectrum: 0.24961
 title: Vakantiewoning Burg Reuland
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.14400119055062532
-  lightness: 0.4000062320847064
-  saturation: 0.1286292269360274
-  rhythmicContrast: 0.3177928200457245
+    - '#050e0d'
+    - '#ffffff'
+    - '#68692f'
+    - '#83984b'
+    - '#c4b9b3'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
