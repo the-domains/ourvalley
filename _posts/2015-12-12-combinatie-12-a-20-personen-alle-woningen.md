@@ -6,10 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 280 m²
-datePublished: '2015-12-12T15:25:19.557Z'
-dateModified: '2015-12-12T15:25:13.396Z'
-title: Combinatie 12 à 20 personen (alle woningen)
+description: ''
+datePublished: '2015-12-12T15:29:21.734Z'
+dateModified: '2015-12-12T15:29:16.435Z'
+title: 12 à 20 personen - 280 m²
 author: []
 sourcePath: _posts/2015-12-12-combinatie-12-a-20-personen-alle-woningen.md
 published: true
