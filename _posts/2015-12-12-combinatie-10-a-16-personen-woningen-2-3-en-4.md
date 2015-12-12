@@ -6,10 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 230 m²
-datePublished: '2015-12-12T15:25:57.910Z'
-dateModified: '2015-12-12T15:25:53.709Z'
-title: 'Combinatie 10 à 16 personen (woningen, 2, 3 en 4)'
+description: ''
+datePublished: '2015-12-12T15:28:44.188Z'
+dateModified: '2015-12-12T15:28:40.700Z'
+title: 10 à 16 personen - 230 m²
 author: []
 sourcePath: _posts/2015-12-12-combinatie-10-a-16-personen-woningen-2-3-en-4.md
 published: true
