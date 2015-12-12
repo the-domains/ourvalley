@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T21:42:43.121Z'
-dateModified: '2015-12-12T21:42:39.601Z'
+datePublished: '2015-12-12T21:51:19.313Z'
+dateModified: '2015-12-12T21:51:10.017Z'
 title: 10 à 16 personen
 author: []
 sourcePath: _posts/2015-12-12-combinatie-10-a-16-personen-woningen-2-3-en-4.md
@@ -36,5 +36,5 @@ Er is een afwasmachine in woning 4\.
 
 Twee terrasjes van 12 en 30 m² zijn ter beschikking. 
 
-# 230 m²
+230 m²
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f63c370c-ac32-48a9-b7da-d632641d2731.jpg)
