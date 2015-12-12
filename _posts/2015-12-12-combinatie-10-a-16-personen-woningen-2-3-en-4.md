@@ -2,13 +2,14 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T21:02:27.621Z'
-dateModified: '2015-12-12T21:02:14.669Z'
-title: 10 à 16 personen - 230 m²
+datePublished: '2015-12-12T21:08:33.651Z'
+dateModified: '2015-12-12T21:08:28.110Z'
+title: 10 à 16 personen
 author: []
 sourcePath: _posts/2015-12-12-combinatie-10-a-16-personen-woningen-2-3-en-4.md
 published: true
@@ -21,6 +22,10 @@ publisher:
 _type: Blurb
 
 ---
+# 10 à 16 personen
+
+**230 m²**
+
 Deze woning bestaat uit drie wooneenheden met eigen badkamers,
 
 keukens, eet- en zitruimten met TV. 
