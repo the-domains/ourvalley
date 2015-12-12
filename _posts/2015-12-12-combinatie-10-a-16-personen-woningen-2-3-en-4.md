@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T21:08:33.651Z'
-dateModified: '2015-12-12T21:08:28.110Z'
+datePublished: '2015-12-12T21:21:16.943Z'
+dateModified: '2015-12-12T21:21:08.759Z'
 title: 10 à 16 personen
 author: []
 sourcePath: _posts/2015-12-12-combinatie-10-a-16-personen-woningen-2-3-en-4.md
@@ -24,11 +24,9 @@ _type: Blurb
 ---
 # 10 à 16 personen
 
-**230 m²**
+****Oppervlakte: **230 m²**
 
-Deze woning bestaat uit drie wooneenheden met eigen badkamers,
-
-keukens, eet- en zitruimten met TV. 
+Deze woning bestaat uit drie wooneenheden met eigen badkamers, keukens, eet- en zitruimten met TV. 
 
 Er zijn in totaal 4 tweepersoonsbedden, 2 éénpersoonsbedden en 3 slaapbanken verdeeld over 6 kamers. 
 
