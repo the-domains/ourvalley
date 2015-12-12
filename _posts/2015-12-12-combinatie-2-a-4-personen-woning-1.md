@@ -2,13 +2,14 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T21:01:50.454Z'
-dateModified: '2015-12-12T21:01:37.655Z'
-title: 2 à 4 personen - 50 m²
+datePublished: '2015-12-12T21:09:24.501Z'
+dateModified: '2015-12-12T21:09:20.615Z'
+title: 2 à 4 personen
 author: []
 sourcePath: _posts/2015-12-12-combinatie-2-a-4-personen-woning-1.md
 published: true
@@ -21,6 +22,10 @@ publisher:
 _type: Blurb
 
 ---
+# 2 à 4 personen
+
+**50 m²**
+
 Deze woning heeft één slaapkamer met een dubbel bed en eenslaapbank voor twee personen in de leefruimte. 
 
 De badkamer is voorzien van een toilet, een douche en eenlavabo. 
