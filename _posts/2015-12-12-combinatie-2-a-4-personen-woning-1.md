@@ -6,10 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 50 m²
-datePublished: '2015-12-12T15:23:18.937Z'
-dateModified: '2015-12-12T15:23:07.925Z'
-title: Combinatie 2 à 4 personen (woning 1)
+description: ''
+datePublished: '2015-12-12T15:30:06.149Z'
+dateModified: '2015-12-12T15:29:49.416Z'
+title: 2 à 4 personen - 50 m²
 author: []
 sourcePath: _posts/2015-12-12-combinatie-2-a-4-personen-woning-1.md
 published: true
