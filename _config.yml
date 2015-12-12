@@ -1,0 +1,28 @@
+name: ourvalley
+favicon: null
+layout_spectrum: 0.6177765587344766
+typography_spectrum: 0.49958925461396575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.14400119055062532
+  lightness: 0.4000062320847064
+  saturation: 0.1286292269360274
+  rhythmicContrast: 0.3177928200457245
+purpose: []
