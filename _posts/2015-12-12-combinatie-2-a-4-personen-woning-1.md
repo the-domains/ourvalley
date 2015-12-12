@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T15:30:06.149Z'
-dateModified: '2015-12-12T15:29:49.416Z'
+datePublished: '2015-12-12T21:01:50.454Z'
+dateModified: '2015-12-12T21:01:37.655Z'
 title: 2 à 4 personen - 50 m²
 author: []
 sourcePath: _posts/2015-12-12-combinatie-2-a-4-personen-woning-1.md
@@ -30,4 +29,4 @@ In de keuken is een ijskast met vriesvak, een elektrischekookplaat, een bakoven 
 
 In de leefruimte is er naast de slaapbank, een TV, een eethoeken een zithoek. 
 
-De woning heeft een dakterras over de ganse oppervlakte (50m²).
+De woning heeft een dakterras over de ganse oppervlakte (50m²). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d0687e3-a143-4232-adb3-b58fa2664825.jpg)
